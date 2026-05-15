@@ -47,7 +47,7 @@ body {
 
 /* 4. HERO */
 .hero {
-    height: 90vh;
+    height: 80vh;
     display: flex;
     justify-content: center;
     align-items: center;
